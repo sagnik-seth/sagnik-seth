@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sagnik-seth/sagnik-seth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello i am Sagnik
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React-Native
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: seth.sagnik1201@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
