@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello i am Sagnik 👋
 
-Hello i am Sagnik
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React-Native
